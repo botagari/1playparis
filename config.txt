@@ -1,6 +1,6 @@
 owner=455051009560150018
-prefix=1
-game=Break | 1play
+prefix=3
+game=Pàris.
 stayinchannel=true
 songinstatus=false
 token=NTY5NjM1MjI4MTYzNzY4MzQx.XLzgNg.Kq3MXKR-MEWkwVqAathRkfROZU8
